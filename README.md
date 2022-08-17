@@ -1,2 +1,2 @@
 # picgo
-img about life/work ect...
+blog需要使用的图片
